@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html
+<head>
+  <link rel="stylesheet"type="text/css"href="style.css">
+</head>
+<body>
+  body {
+    background: gray;
+    margin:0;   /* added */
+<h2>Hey</h2>
+<script src="main.js"></script>
+</body>
+</html>

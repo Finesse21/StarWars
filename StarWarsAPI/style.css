@@ -1,0 +1,88 @@
+body {
+  background: gray;
+  margin:0;   /* added */
+
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 6rem;
+  color: black;
+}
+
+p {
+  text-align: center;
+  font-size: 50px;
+  color: yellow;
+}
+
+img {
+  width: 40%;
+  height: 40%;
+  border: dashed gray 7px;
+  padding: 10px;
+  margin-left: 490px;
+  border-radius: 10px;
+}
+
+figcaption {
+  text-align : center;
+  font-size: 25px;
+  background: white;
+  border:solid 2px beige;
+  padding: 5px;
+  margin: 20px 5px 20px 5px;
+}
+
+li {
+ list-style-type: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+blockquote {
+  text-align: center;
+  color: black;
+}
+
+h3 {
+  text-align: center;
+}
+
+#subheader {
+  color: black;
+  font-size: 17px;
+}
+
+#timeline-header {
+  font-size: 2rem;
+  border-bottom: 1px solid white;
+}
+
+#first-list-item {
+  border: 5px dotted purple;
+  margin: 40px;
+  padding-top: 5%;
+  color: purple;
+}
+
+#award-year {
+  border-bottom: 4px solid purple;
+  border-top: 4px solid purple;
+  margin-bottom: 20%;
+  padding: 2px;
+}
+
+
+#learn-more {
+  font-size: 15px;
+}
